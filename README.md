@@ -37,7 +37,7 @@ Sou um **Analista de Dados**, com formação em **Engenharia Informática** e ex
 
 ### 📂 Projetos em Destaque  
 
-🔹 [**Dashboard de Vendas**](https://github.com/manuelMazambilo/dashboard-vendas) – Identificação de padrões de consumo e análise de vendas  
+🔹 [**Dashboard Comercial**]([https://github.com/manuelMazambilo/dashboard-vendas](https://github.com/manuelMazambilo/Projectos-Power-BI/blob/main/Dashboard.pbix)) – Identificação de padrões de consumo e análise de vendas  
 🔹 [**Assiduidade de Funcionários**](https://github.com/manuelMazambilos/assiduidade-funcionarios) – Monitoramento de presença e KPIs  
 🔹 [**ETL com Pentaho**](https://github.com/manuelMazambilos/etl-pentaho) – Pipeline de dados corporativos  
 🔹 [**Análise de Dados com Python**](https://github.com/manuelMazambilo/analise-python) – Insights a partir de grandes volumes de dados  
