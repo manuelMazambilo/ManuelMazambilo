@@ -4,9 +4,7 @@
 
 📩 **manuelmazambilo99@outlook.pt** | 📱 **+244 942490858 / +244 951623611** | 🌐 [LinkedIn](https://www.linkedin.com/in/manuelmazambilo) | 🐙 [GitHub](https://github.com/manuelMazambilo)  
 
-
-
-Sou um **Analista de Dados**, com formação em **Engenharia Informática** e experiência prática em análise de dados, suporte técnico e auditoria comercial. Tenho competências em **Power BI, Excel Avançado, SQL, Python e Pentaho**, e gosto de transformar grandes volumes de informação em **insights estratégicos** que impulsionam decisões de negócio.  
+Sou um **Analista de Dados** com formação em **Engenharia Informática** e experiência prática em **Power BI, Excel, SQL, Python e ETL (Pentaho)**. Trabalho transformando dados em **insights estratégicos** para suportar a tomada de decisão.  
 
 
 
@@ -24,31 +22,18 @@ Sou um **Analista de Dados**, com formação em **Engenharia Informática** e ex
 
 
 
-### 🛠️ Habilidades Técnicas  
+### 🤖 Tecnologias que domino  
 
-- 📊 Power BI, Excel Avançado  
-- 🗄️ SQL (SQL Server, MySQL)  
-- 🐍 Python (Pandas, NumPy, Matplotlib)  
-- 🔄 ETL com Pentaho, Microsoft 365  
-- 🌐 Redes de Computadores, Hardware e Software  
-- 💻 Programação: C++, C#, Java  
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
+<img align="left" alt="Excel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-
-
-### 📂 Projetos em Destaque  
-
-🔹 [**Dashboard Comercial**]([https://github.com/manuelMazambilo/dashboard-vendas](https://github.com/manuelMazambilo/Projectos-Power-BI/blob/main/Dashboard.pbix)) – Identificação de padrões de consumo e análise de vendas  
-🔹 [**Assiduidade de Funcionários**](https://github.com/manuelMazambilos/assiduidade-funcionarios) – Monitoramento de presença e KPIs  
-🔹 [**ETL com Pentaho**](https://github.com/manuelMazambilos/etl-pentaho) – Pipeline de dados corporativos  
-🔹 [**Análise de Dados com Python**](https://github.com/manuelMazambilo/analise-python) – Insights a partir de grandes volumes de dados  
-
-
-
-### 🏅 Certificações  
-
-![Udemy Power BI](https://img.shields.io/badge/Power%20BI-Udemy-yellow?style=for-the-badge&logo=powerbi&logoColor=white)  
-![DataCamp SQL](https://img.shields.io/badge/SQL-DataCamp-blue?style=for-the-badge&logo=databricks&logoColor=white)  
-![Coursera Python](https://img.shields.io/badge/Python%20Data%20Science-Coursera-green?style=for-the-badge&logo=python&logoColor=white)  
+<br/>
+<br/>
+<br/>
 
 
 
